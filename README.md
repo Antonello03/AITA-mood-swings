@@ -1,5 +1,5 @@
 # r/AmITheAsshole Analysis Project
-This is the repository for the AITA Subreddit Exploration & Web and Social Media Analysis project being developed by Antonello di'Rita, Alessandro Longato, Emirhan Kayar, for the Web and Social Networks course final year of the Bachelor of Science in Artificial Intelligence (a.y. 2024/2025).
+This is the repository for the AITA Subreddit Exploration & Web and Social Media Analysis project being developed by Antonello Di Rita, Alessandro Longato, Emirhan Kayar, for the Web and Social Networks course final year of the Bachelor of Science in Artificial Intelligence (a.y. 2024/2025).
 
 ## Overview
 This research project analyzes the subreddit [r/AmITheAsshole](https://www.reddit.com/r/AmITheAsshole) to understand user interaction patterns, sentiment dynamics and temporal events. There exists seven different tags in this sub, however, our research team only examine posts judged as "YTA" (You're the Asshole) versus "NTA" (Not the Asshole).   
